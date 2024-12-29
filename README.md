@@ -7,7 +7,8 @@
   👉🏼 You probably know that genomes are packed with information, but did you know that humans share about 60% of their DNA with bananas? So, while you’re working with RNA-seq, WES or any genetic data to decode complex human genetics, you're also a distant cousin to the banana! 🍌🔬 <br/><br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chopraamhk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chopraamhk) 
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -21,6 +22,3 @@
 # 📊 GitHub Stats:
 - The stats below might not look that good now, but trust me! I am getting there :)
 ![](https://github-readme-stats.vercel.app/api?username=chopraamhk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chopraamhk&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
