@@ -1,7 +1,7 @@
 # 💫 Hi, My name is Mehak!
 - 🤓 A PhD candidate in the Centre for Research Training in Genomics Data Science Programme at the University of Galway, Ireland. <br/>
 - 🫀🧬 My work focuses on studying genetic variants and their impact on the cellular proportion of the aorta. <br/>
-- 📫 Please feel free to reach out to me at m.chopra1@universityofgalway.ie or mehak.chopra@yale.edu  <br/>
+- 📫 Please feel free to reach out to me at m.chopra1@universityofgalway.ie (primary) or mehak.chopra@yale.edu  <br/>
 - 😄 Pronouns: she/her <br/><br/>
 - ⚡ Random Fun facts: <br/>
   👉🏼 Did you know the aorta is the largest blood vessel in your body, about 2.5 cm wide, like a garden hose? But when an aneurysm forms, it can expand to the size of a grapefruit! 🤯 Can you imagine the pressure that would put on the body? It’s a reminder of how important it is to keep that "highway" healthy! 🛣️ <br/><br/>
