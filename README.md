@@ -22,5 +22,5 @@
 - The stats below might not look that good now, but trust me! I am getting there :)
 ![](https://github-readme-stats.vercel.app/api?username=chopraamhk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chopraamhk&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
