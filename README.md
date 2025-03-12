@@ -2,9 +2,8 @@
 - 🤓 A PhD candidate in the SFI Centre for Research Training in Genomics Data Science Programme at the University of Galway, Ireland. <br/>
 - 🫀🧬 My research dives into genes, ageing, and aortic health, as I explore genetic variations and their impact on the cellular makeup of the aorta. <br/>
 - 📫 Please feel free to reach out to me at m.chopra1@universityofgalway.ie (primary) or mehak.chopra@yale.edu  <br/><br/>
-- ⚡ Random Fun facts: <br/>
-  👉🏼 Did you know the aorta is the largest blood vessel in your body, about 2.5 cm wide, like a garden hose? But when an aneurysm forms, it can expand to the size of a grapefruit! 🤯 <br/><br/>
-  👉🏼 You probably know that genomes are packed with information, but did you know that humans share about 60% of their DNA with bananas? So, while you’re working with RNA-seq, WES or any genetic data to decode complex human genetics, you're also a distant cousin to the banana! 🍌🔬 <br/><br/>
+- ⚡what do i work on?: <br/>
+  👉🏼 Did you know the aorta is the largest blood vessel in your body, about 2.5 cm wide, like a garden hose? But when an aneurysm forms, it can expand to the size of a grapefruit! 🤯 Ummmm.. I work to know the mechanism behind why the garden hose expands to the size of a grapefruit. <br/><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) 
