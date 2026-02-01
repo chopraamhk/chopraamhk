@@ -16,6 +16,3 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
-## 📊 GitHub Stats:
-- The stats don't look that good now, but trust me! I am getting there :)
-![](https://github-readme-stats.vercel.app/api?username=chopraamhk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
