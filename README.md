@@ -1,4 +1,4 @@
-# Hi, My name is Mehak!
+# Hi, My name is Mehak.
 - A PhD candidate in the SFI Centre for Research Training in Genomics Data Science Programme at the University of Galway, Ireland. <br/>
 - My research dives into genes, ageing, and aortic health, as I explore genetic variations and their impact on the cellular makeup of the aorta. <br/>
 - Here's my [Curriculum Vitae](CV_mehak.pdf) .
