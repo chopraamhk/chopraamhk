@@ -19,11 +19,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-Advanced-%234B8BBE?style=for-the-badge)
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-Analysis-6A5ACD?style=for-the-badge)
-![RNA-seq](https://img.shields.io/badge/RNA--seq-Analysis-FF8C00?style=for-the-badge)
-![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-FF4500?style=for-the-badge)
-![snRNA-seq](https://img.shields.io/badge/snRNA--seq-Nuclei-FF6347?style=for-the-badge)
-
-![Transcriptomics](https://img.shields.io/badge/Transcriptomics-RNA%20Analysis-2E8B57?style=for-the-badge)
-![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-Analysis-4B8BBE?style=for-the-badge)
 ![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-4B8BBE?style=for-the-badge)
 
