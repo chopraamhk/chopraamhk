@@ -4,9 +4,12 @@
 - Here's my [Curriculum Vitae](CV_mehak.pdf) .
 - Please feel free to reach out to me at m.chopra1@universityofgalway.ie (primary) or mehak.chopra@yale.edu  <br/><br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chopraamhk) 
+## Research Interests :
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
+![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
+![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
+![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
 
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -18,9 +21,8 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-%2323C48E.svg?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Research Interests :
-![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
-![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
-![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
-![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chopraamhk) 
+
+
