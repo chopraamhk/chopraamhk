@@ -23,3 +23,7 @@
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-FF4500?style=for-the-badge)
 ![snRNA-seq](https://img.shields.io/badge/snRNA--seq-Nuclei-FF6347?style=for-the-badge)
 
+![Transcriptomics](https://img.shields.io/badge/Transcriptomics-RNA%20Analysis-2E8B57?style=for-the-badge)
+![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-Analysis-4B8BBE?style=for-the-badge)
+![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-4B8BBE?style=for-the-badge)
+
