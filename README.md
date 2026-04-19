@@ -18,7 +18,7 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-%2323C48E.svg?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+## 💻 Research Domain :
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge)
 ![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
@@ -26,3 +26,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
 
 
+
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-5A5A5A?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Imaging](https://img.shields.io/badge/Imaging-FF8C00?style=for-the-badge&logo=opencv&logoColor=white)
