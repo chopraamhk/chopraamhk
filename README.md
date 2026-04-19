@@ -18,7 +18,7 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-%2323C48E.svg?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 💻 Research Interests :
+## Research Interests :
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics%20Stack-4B8BBE?style=flat-square&logo=github&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
 ![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
