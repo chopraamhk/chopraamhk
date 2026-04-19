@@ -9,6 +9,7 @@
 ![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
 ![Population Genetics & GWAS](https://img.shields.io/badge/Population%20Genetics%20%26%20GWAS-6A5ACD?style=for-the-badge)
+![GWAS](https://img.shields.io/badge/GWAS%20Analysis-8A2BE2?style=for-the-badge)
 ![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
 
