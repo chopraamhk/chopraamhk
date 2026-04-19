@@ -24,6 +24,5 @@
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
 ![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-5A5A5A?style=for-the-badge)
 
 
