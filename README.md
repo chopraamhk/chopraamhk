@@ -27,6 +27,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-chopra) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chopraamhk) 
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/chopraamhk.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-black.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/chopraamhk.bsky.social)
 
 
