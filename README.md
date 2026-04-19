@@ -24,6 +24,4 @@
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-Analysis-FF8C00?style=for-the-badge)
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-FF4500?style=for-the-badge)
 ![snRNA-seq](https://img.shields.io/badge/snRNA--seq-Nuclei-FF6347?style=for-the-badge)
-![Nextflow](https://img.shields.io/badge/Nextflow-%2323C48E.svg?style=for-the-badge&logo=nextflow&logoColor=white)
-![R](https://img.shields.io/badge/R-Statistical%20Computing-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
