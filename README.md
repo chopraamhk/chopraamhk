@@ -16,6 +16,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Nextflow](https://img.shields.io/badge/Nextflow-%2300A9E0.svg?style=for-the-badge&logo=nextflow&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-%2323C48E.svg?style=for-the-badge&logo=nextflow&logoColor=white)
 
 
