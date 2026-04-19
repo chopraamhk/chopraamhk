@@ -5,7 +5,6 @@
 - Please feel free to reach out to me at m.chopra1@universityofgalway.ie (primary) or mehak.chopra@yale.edu  <br/><br/>
 
 ## Research Interests
-![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
 ![Imaging](https://img.shields.io/badge/Imaging-FF8C00?style=for-the-badge)
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
 ![GWAS](https://img.shields.io/badge/GWAS-8A2BE2?style=for-the-badge)
@@ -15,7 +14,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-5A5A5A?style=for-the-badge)
 
 ## 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=r&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
