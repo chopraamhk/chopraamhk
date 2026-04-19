@@ -10,17 +10,11 @@
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
 ![GWAS](https://img.shields.io/badge/GWAS%20Analysis-8A2BE2?style=for-the-badge)
 ![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
+![RNA-seq](https://img.shields.io/badge/RNA--seq-Analysis-FF8C00?style=for-the-badge)
+![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-FF4500?style=for-the-badge)
+![snRNA-seq](https://img.shields.io/badge/snRNA--seq-Nuclei-FF6347?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-5A5A5A?style=for-the-badge)
 
-![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
-
-![RNA-seq](https://img.shields.io/badge/RNA--seq-Analysis-FF8C00?style=for-the-badge)
-
-![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-FF4500?style=for-the-badge)
-
-![snRNA-seq](https://img.shields.io/badge/snRNA--seq-Nuclei-FF6347?style=for-the-badge)
-
-![Transcriptomics](https://img.shields.io/badge/RNA%20%2F%20Single--Cell%20Transcriptomics-2E8B57?style=for-the-badge)
 
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
