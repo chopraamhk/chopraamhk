@@ -21,3 +21,14 @@
 ![Population Genetics](https://img.shields.io/badge/Population%20Genetics%20%26%20GWAS-6A5ACD?style=for-the-badge)
 ![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-4B8BBE?style=for-the-badge)
 
+
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge)
+
+![Population Genetics](https://img.shields.io/badge/Population%20Genetics-6A5ACD?style=for-the-badge)
+
+![Functional Transcriptomics](https://img.shields.io/badge/Functional%20Transcriptomics-2E8B57?style=for-the-badge)
+
+![Imaging](https://img.shields.io/badge/Imaging-Phenotyping-FF8C00?style=for-the-badge)
+
+![MRI Segmentation](https://img.shields.io/badge/MRI%20Segmentation-FF6347?style=for-the-badge)
+
